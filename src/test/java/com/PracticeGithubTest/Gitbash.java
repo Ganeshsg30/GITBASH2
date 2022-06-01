@@ -7,6 +7,8 @@ public class Gitbash
 		System.out.println("Gitbash2");
 		System.out.println("fuck person 1");
 		by venky
+
+		System.out.println("fuck person 1");
 	}
 }
 
